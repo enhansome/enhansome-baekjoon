@@ -1,0 +1,607 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "atcoder/ac-library",
+          "description": "AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-05-01T16:53:01Z",
+            "owner": "atcoder",
+            "repo": "ac-library",
+            "stars": 2345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cheran-senthil/PyRival",
+          "description": "Python으로 구현한 알고리즘 라이브러리 묶음입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T12:54:10Z",
+            "owner": "cheran-senthil",
+            "repo": "PyRival",
+            "stars": 1284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frozenca/BTree",
+          "description": "C++로 짠 범용, 헤더 온리, STL과 닮은 B-Tree 구현체입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-10-29T23:27:30Z",
+            "owner": "frozenca",
+            "repo": "BTree",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "라이브러리"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MikeMirzayanov/testlib",
+          "description": "문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-21T17:30:16Z",
+            "owner": "MikeMirzayanov",
+            "repo": "testlib",
+            "stars": 1734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UCPC 디스크립션 작성 및 포매팅 컨벤션",
+          "description": "UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-11T11:10:59Z",
+            "owner": "ucpcc",
+            "repo": "problemsetting-guidelines",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "solved-ac/boj-description-converter",
+          "description": "UCPC 측에서 사용하는 olymp.sty 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ShapeLayer/modernized-boj-description-converter",
+              "description": "solved-ac/boj-description-converter를 포크한 개선판입니다.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-01-06T06:53:50Z",
+                "owner": "ShapeLayer",
+                "repo": "modernized-boj-description-converter",
+                "stars": 0
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-26T06:43:16Z",
+            "owner": "solved-ac",
+            "repo": "boj-description-converter",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ucpcc/ucpc2020-description-layout",
+          "description": "olymp.sty, SPC 2019 문제지 레이아웃 기반 문제 본문 템플릿입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2020-10-20T16:24:40Z",
+            "owner": "ucpcc",
+            "repo": "2020-description-layout",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Startlink/boj-judge-samples",
+          "description": "BOJ Stack 상에서 쓸 수 있는 문제 채점기(인터렉터, 스페셜 저지 등)의 예시를 소개한 저장소입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2021-02-02T18:02:50Z",
+            "owner": "Startlink",
+            "repo": "boj-judge-samples",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "문제 출제"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BaekjoonHub",
+          "description": "백준 온라인 저지, 프로그래머스 등에서 맞았습니다를 받을 경우 해당 소스 코드를 열람해 복사한 후 GitHub에 올려주는 브라우저 확장입니다. (Chrome)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-08T07:49:34Z",
+            "owner": "BaekjoonHub",
+            "repo": "BaekjoonHub",
+            "stars": 967
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "토탐정",
+          "description": "백준 온라인 저지에서 태그를 까지 않고, 알고 있는 알고리즘만으로 풀 수 있는 문제인지 확인할 수 있습니다. 또한, 손쉬운 검색 필터를 사용해 랜덤 디펜스를 진행할 수 있습니다. 그 외, 테마 등 기타 편의 기능을 제공합니다. (Chrome, Whale, Firefox)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-22T07:35:50Z",
+            "owner": "wzrabbit",
+            "repo": "boj-totamjung",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BOJ Extended",
+          "description": "사용자 페이지, 채점 현황, 문제 타이머, 사용자 비교, 빠른 검색, 다크 모드 등 백준 온라인 저지 사용자 경험을 전반적으로 향상시키는 다양한 기능 묶음을 제공합니다. (Chrome, Whale, Firefox)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-01T07:17:16Z",
+            "owner": "joonas-yoon",
+            "repo": "boj-extended",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TIERIMNIDA - 백준 온라인 저지에서 사용자 페이지의 문제 번호를 티어 색상으로 칠해줍니다. (Chrome",
+          "description": ")",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TIERIMNIDA 클론",
+              "description": "원본 프로젝트가 4년 전 마지막 유지보수로 더이상 작동하지 않아 만든 클론 프로젝트 (Chrome)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2026-01-31T17:14:26Z",
+                "owner": "yehwankim23",
+                "repo": "tierimnida-clone",
+                "stars": 2
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-04-24T03:14:49Z",
+            "owner": "mazassumnida",
+            "repo": "tierimnida",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BaekjoonCord",
+          "description": "문제를 풀면 Discord 웹훅을 통해 메시지를 전송합니다. (Chrome)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T12:25:26Z",
+            "owner": "BaekjoonCord",
+            "repo": "BJCORD-extension",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "배추",
+          "description": "백준 온라인 저지 대회와 관련된 배지, 배경 정보를 대회 메뉴에 표시합니다. (Chrome, Firefox)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-04T02:56:02Z",
+            "owner": "kiwiyou",
+            "repo": "baechu",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "o-ey (오이)",
+          "description": "백준 온라인 저지 사용자 번역 서비스입니다. 병합 요청은 kiwiyou/boj-user-translation에 받습니다. (Chrome, Firefox)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-01-22T12:16:56Z",
+            "owner": "kiwiyou",
+            "repo": "o-ey",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "토마토 예측기",
+          "description": "solved.ac 아레나 레이팅 변화를 예측합니다. (Chrome, Firefox)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-01T05:57:01Z",
+            "owner": "kiwiyou",
+            "repo": "tomato-predictor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "random-ac",
+          "description": "백준 그룹 연습에서 랜덤 디펜스를 쉽게 만들어주는 확장입니다. (Chrome, Firefox)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-28T22:47:49Z",
+            "owner": "Bubbler-4",
+            "repo": "random-ac",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "브라우저 확장"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "mazassumnida/mazassumnida",
+          "description": "레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 solved.ac 정보 기반 뱃지/배너를 만들어줍니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T06:33:50Z",
+            "owner": "mazassumnida",
+            "repo": "mazassumnida",
+            "stars": 651
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mazassumnida/mazandi",
+          "description": "예쁜 solved.ac 잔디 배너를 만들어줍니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-04T07:52:11Z",
+            "owner": "mazassumnida",
+            "repo": "mazandi",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "@solvedac/unofficial-documentation",
+          "description": "solved.ac API를 문서화하는 비공식 커뮤니티 프로젝트입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-08-25T15:50:07Z",
+            "owner": "solvedac",
+            "repo": "unofficial-documentation",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hyp3rflow/github-readme-solvedac",
+          "description": "레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 solved.ac 정보 기반 배너를 만들어줍니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T12:53:00Z",
+            "owner": "hyp3rflow",
+            "repo": "github-readme-solvedac",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jayden000106/My.solved",
+          "description": "solved.ac 비공식 앱입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2025-04-28T11:59:48Z",
+            "owner": "My-solved",
+            "repo": "My.solved",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RECJOON",
+          "description": "백준 온라인 저지 및 solved.ac 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-07-19T05:23:36Z",
+            "owner": "boostcampaitech3",
+            "repo": "final-project-level3-recsys-14",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "star0202/solvedac-cards",
+          "description": "유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T23:56:04Z",
+            "owner": "star0202",
+            "repo": "solvedac-cards",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "boj.ma",
+          "description": "백준 온라인 저지 단축 URL 서비스로, 문제 제목 프리뷰를 OpenGraph로 제공합니다. 로 사용합니다. (예: ) (GitHub kiwiyou/boj-preview)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-18T12:40:03Z",
+            "owner": "kiwiyou",
+            "repo": "boj-preview",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram @solvedacbot",
+          "description": "Telegram 메신저에서 solved.ac 문제/사용자 검색을 돕는 봇입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-11-07T13:11:45Z",
+            "owner": "kiwiyou",
+            "repo": "solvedacbot",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exact.tagged.ac",
+          "description": "일러스타 페스 \"표준 라이브러리\" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. (GitHub kiwiyou/tagged-exact))",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T12:20:05Z",
+            "owner": "kiwiyou",
+            "repo": "tagged-exact",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "서비스"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "에디토리얼"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "제 1회 구데기컵, 진짜 최종 구데기컵 2018",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-13T13:11:10Z",
+            "owner": "ghudegy",
+            "repo": "2018",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "진짜 최종 구데기컵 2 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-09-27T05:49:17Z",
+            "owner": "ghudegy",
+            "repo": "2022",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EtvycAuRLZpb6hhe86x0",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-22T12:29:16Z",
+            "owner": "ghudegy",
+            "repo": "2021",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "구데기컵"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kiwiyou/basm-rs",
+          "description": "정적 링크한 no-libc, no-std Rust 프로그램 바이너리를 C 프로그램으로 번역해줍니다. 미리 구현해 제공하는 라이브러리는 물론, 조건에 맞는 외부 Rust 라이브러리도 사용할 수 있으며 빠릅니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-06-15T14:07:11Z",
+            "owner": "boj-rs",
+            "repo": "basm-rs",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xvzc/boj-cli",
+          "description": "백준 온라인 저지 커맨드 라인 인터페이스",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-10-28T15:25:25Z",
+            "owner": "xvzc",
+            "repo": "boj-cli",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bubbler-4/gaboja",
+          "description": "백준 문제 풀이를 편리하게 만들어주는 CLI 도구 묶음입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-25T00:44:59Z",
+            "owner": "boj-rs",
+            "repo": "gaboja",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duqrldudgns/PS_CounterEx_Generator",
+          "description": "맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-09-17T02:56:30Z",
+            "owner": "DevM4rk",
+            "repo": "PS_CounterEx_Generator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zshchun/bojtools",
+          "description": "백준 온라인 저지 및 solved.ac 전용 CLI 도구 묶음입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T16:02:16Z",
+            "owner": "zshchun",
+            "repo": "bojtools",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "유틸리티"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "코딩테스트 대비 문제집 with Baekjoon",
+          "description": "코딩 테스트 대비용 알고리즘 문제집입니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T17:07:31Z",
+            "owner": "tony9402",
+            "repo": "baekjoon",
+            "stars": 6408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "바킹독의 실전 알고리즘",
+          "description": "C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-27T12:17:27Z",
+            "owner": "encrypted-def",
+            "repo": "basic-algo-lecture",
+            "stars": 2781
+          }
+        }
+      ],
+      "title": "학습"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T06:44:50.375Z",
+    "original_repository": "RanolP/awesome-baekjoon",
+    "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
+    "enhanced_repository": "enhansome/enhansome-baekjoon",
+    "enhanced_repository_description": null,
+    "title": "awesome-baekjoon with stars"
+  }
+}
