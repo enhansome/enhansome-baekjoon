@@ -572,10 +572,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T17:07:31Z",
+            "last_commit": "2026-08-13T17:07:39Z",
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6408
+            "stars": 6407
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2026-01-27T12:17:27Z",
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2781
+            "stars": 2782
           }
         }
       ],
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:44:50.375Z",
+    "last_updated": "2026-08-14T06:42:20.264Z",
     "original_repository": "RanolP/awesome-baekjoon",
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",
