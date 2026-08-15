@@ -14,7 +14,7 @@
             "last_commit": "2025-05-01T16:53:01Z",
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2345
+            "stars": 2348
           }
         },
         {
@@ -381,7 +381,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T23:56:04Z",
+            "last_commit": "2026-08-14T23:51:52Z",
             "owner": "star0202",
             "repo": "solvedac-cards",
             "stars": 19
@@ -572,10 +572,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T17:07:39Z",
+            "last_commit": "2026-08-14T17:06:44Z",
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6407
+            "stars": 6408
           }
         },
         {
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T06:42:20.264Z",
+    "last_updated": "2026-08-15T05:40:58.799Z",
     "original_repository": "RanolP/awesome-baekjoon",
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",
