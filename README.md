@@ -25,13 +25,13 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 라이브러리
 
-* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,348 | 🐛 17 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
+* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,347 | 🐛 17 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
 * [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) ⭐ 1,284 | 🐛 21 | 🌐 Python | 📅 2026-08-10 - Python으로 구현한 알고리즘 라이브러리 묶음입니다.
 * [frozenca/BTree](https://github.com/frozenca/BTree) ⭐ 249 | 🐛 0 | 🌐 C++ | 📅 2024-10-29 - C++로 짠 범용, 헤더 온리, STL과 닮은 B-Tree 구현체입니다.
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-14 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-17 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,408 | 🐛 6 | 🌐 C++ | 📅 2026-08-15 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-16 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,782 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
