@@ -14,7 +14,7 @@
             "last_commit": "2025-05-01T16:53:01Z",
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2347
+            "stars": 2346
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-06-21T17:30:16Z",
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1734
+            "stars": 1735
           }
         },
         {
@@ -572,7 +572,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T16:54:06Z",
+            "last_commit": "2026-08-17T17:09:19Z",
             "owner": "tony9402",
             "repo": "baekjoon",
             "stars": 6409
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T05:49:58.192Z",
+    "last_updated": "2026-08-18T05:45:07.936Z",
     "original_repository": "RanolP/awesome-baekjoon",
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",
