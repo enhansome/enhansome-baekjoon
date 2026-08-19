@@ -75,7 +75,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 * [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-07 - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 * [jayden000106/My.solved](https://github.com/jayden000106/My.solved) ⭐ 33 | 🐛 0 | 🌐 Dart | 📅 2025-04-28 - [solved.ac][] 비공식 앱입니다.
 * [RECJOON](https://github.com/boostcampaitech3/final-project-level3-recsys-14) ⭐ 27 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-07-19 - 백준 온라인 저지 및 [solved.ac][] 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.
-* [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) ⭐ 19 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-14 - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
+* [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) ⭐ 19 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-19 - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
 * [boj.ma](https://boj.ma) - 백준 온라인 저지 단축 URL 서비스로, 문제 제목 프리뷰를 OpenGraph로 제공합니다. `https://boj.ma/{{문제 번호}}`로 사용합니다. (예: `https://boj.ma/1000`) ([GitHub kiwiyou/boj-preview](https://github.com/kiwiyou/boj-preview) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-18)
 * [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) ⭐ 4 | 🐛 2 | 🌐 Rust | 📅 2021-11-07 - Telegram 메신저에서 [solved.ac][] 문제/사용자 검색을 돕는 봇입니다.
 * [exact.tagged.ac](https://exact.tagged.ac/) - 일러스타 페스 "표준 라이브러리" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. ([GitHub kiwiyou/tagged-exact)](https://github.com/kiwiyou/tagged-exact) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-09)
@@ -89,7 +89,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ### 제작 관련
 
-* [ucpcc/ucpc2020-solutions-theme](https://github.com/ucpcc/ucpc2020-solutions-theme) ⭐ 44 | 🐛 1 | 🌐 TeX | 📅 2026-02-10 - UCPC 2020 풀이 및 이에 사용된 beamer 테마입니다.
+* [ucpcc/ucpc2020-solutions-theme](https://github.com/ucpcc/ucpc2020-solutions-theme) ⭐ 45 | 🐛 1 | 🌐 TeX | 📅 2026-02-10 - UCPC 2020 풀이 및 이에 사용된 beamer 테마입니다.
 
 ### 구데기컵
 
@@ -113,7 +113,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,408 | 🐛 6 | 🌐 C++ | 📅 2026-08-18 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-18 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,783 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/

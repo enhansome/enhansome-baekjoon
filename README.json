@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293816245,
             "language": "C++",
             "last_commit": "2025-05-01T16:53:01Z",
             "owner": "atcoder",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 147658180,
             "language": "Python",
             "last_commit": "2026-08-10T12:54:10Z",
             "owner": "cheran-senthil",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 516673453,
             "language": "C++",
             "last_commit": "2024-10-29T23:27:30Z",
             "owner": "frozenca",
@@ -49,7 +52,7 @@
       "title": "라이브러리"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36792683,
             "language": "C++",
             "last_commit": "2026-06-21T17:30:16Z",
             "owner": "MikeMirzayanov",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 272208427,
             "language": null,
             "last_commit": "2025-08-11T11:10:59Z",
             "owner": "ucpcc",
@@ -91,6 +96,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 912655414,
                 "language": "TypeScript",
                 "last_commit": "2025-01-06T06:53:50Z",
                 "owner": "ShapeLayer",
@@ -101,6 +107,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 504852198,
             "language": "TypeScript",
             "last_commit": "2025-11-26T06:43:16Z",
             "owner": "solved-ac",
@@ -115,6 +122,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 305765819,
             "language": "TeX",
             "last_commit": "2020-10-20T16:24:40Z",
             "owner": "ucpcc",
@@ -129,6 +137,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 321431980,
             "language": "C++",
             "last_commit": "2021-02-02T18:02:50Z",
             "owner": "Startlink",
@@ -140,7 +149,7 @@
       "title": "문제 출제"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -149,6 +158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 436290390,
             "language": "JavaScript",
             "last_commit": "2026-08-08T07:49:34Z",
             "owner": "BaekjoonHub",
@@ -163,6 +173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 467000303,
             "language": "TypeScript",
             "last_commit": "2026-06-22T07:35:50Z",
             "owner": "wzrabbit",
@@ -177,6 +188,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 331635766,
             "language": "JavaScript",
             "last_commit": "2026-01-01T07:17:16Z",
             "owner": "joonas-yoon",
@@ -196,6 +208,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 732658088,
                 "language": "JavaScript",
                 "last_commit": "2026-01-31T17:14:26Z",
                 "owner": "yehwankim23",
@@ -206,6 +219,7 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 381250935,
             "language": "JavaScript",
             "last_commit": "2025-04-24T03:14:49Z",
             "owner": "mazassumnida",
@@ -220,6 +234,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 796301787,
             "language": "TypeScript",
             "last_commit": "2026-04-15T12:25:26Z",
             "owner": "BaekjoonCord",
@@ -234,6 +249,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 742864158,
             "language": "JavaScript",
             "last_commit": "2026-04-04T02:56:02Z",
             "owner": "kiwiyou",
@@ -248,6 +264,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 614743877,
             "language": "JavaScript",
             "last_commit": "2024-01-22T12:16:56Z",
             "owner": "kiwiyou",
@@ -262,6 +279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 736184867,
             "language": "JavaScript",
             "last_commit": "2024-03-01T05:57:01Z",
             "owner": "kiwiyou",
@@ -276,6 +294,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 775339870,
             "language": "JavaScript",
             "last_commit": "2024-03-28T22:47:49Z",
             "owner": "Bubbler-4",
@@ -287,7 +306,7 @@
       "title": "브라우저 확장"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -296,6 +315,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 289510536,
             "language": "Python",
             "last_commit": "2026-04-13T06:33:50Z",
             "owner": "mazassumnida",
@@ -310,6 +330,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 411718772,
             "language": "Python",
             "last_commit": "2023-05-04T07:52:11Z",
             "owner": "mazassumnida",
@@ -324,6 +345,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 273835233,
             "language": "HTML",
             "last_commit": "2024-08-25T15:50:07Z",
             "owner": "solvedac",
@@ -338,6 +360,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 324689417,
             "language": "TypeScript",
             "last_commit": "2026-05-07T12:53:00Z",
             "owner": "hyp3rflow",
@@ -352,6 +375,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 553744436,
             "language": "Dart",
             "last_commit": "2025-04-28T11:59:48Z",
             "owner": "My-solved",
@@ -366,6 +390,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 486496431,
             "language": "Jupyter Notebook",
             "last_commit": "2022-07-19T05:23:36Z",
             "owner": "boostcampaitech3",
@@ -380,8 +405,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 689991558,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T23:51:52Z",
+            "last_commit": "2026-08-19T06:32:46Z",
             "owner": "star0202",
             "repo": "solvedac-cards",
             "stars": 19
@@ -394,6 +420,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 747329966,
             "language": "TypeScript",
             "last_commit": "2025-05-18T12:40:03Z",
             "owner": "kiwiyou",
@@ -408,6 +435,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 424447545,
             "language": "Rust",
             "last_commit": "2021-11-07T13:11:45Z",
             "owner": "kiwiyou",
@@ -422,6 +450,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 757115635,
             "language": "TypeScript",
             "last_commit": "2026-08-09T12:20:05Z",
             "owner": "kiwiyou",
@@ -433,60 +462,65 @@
       "title": "서비스"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "제 1회 구데기컵, 진짜 최종 구데기컵 2018",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127608641,
+                "language": "Python",
+                "last_commit": "2023-03-13T13:11:10Z",
+                "owner": "ghudegy",
+                "repo": "2018",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "진짜 최종 구데기컵 2 2",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 472745323,
+                "language": null,
+                "last_commit": "2022-09-27T05:49:17Z",
+                "owner": "ghudegy",
+                "repo": "2022",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EtvycAuRLZpb6hhe86x0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350562349,
+                "language": null,
+                "last_commit": "2022-03-22T12:29:16Z",
+                "owner": "ghudegy",
+                "repo": "2021",
+                "stars": 8
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "구데기컵"
+        }
+      ],
       "title": "에디토리얼"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "제 1회 구데기컵, 진짜 최종 구데기컵 2018",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-13T13:11:10Z",
-            "owner": "ghudegy",
-            "repo": "2018",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "진짜 최종 구데기컵 2 2",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-09-27T05:49:17Z",
-            "owner": "ghudegy",
-            "repo": "2022",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EtvycAuRLZpb6hhe86x0",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2022-03-22T12:29:16Z",
-            "owner": "ghudegy",
-            "repo": "2021",
-            "stars": 8
-          }
-        }
-      ],
-      "title": "구데기컵"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -495,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 498301218,
             "language": "Rust",
             "last_commit": "2026-06-15T14:07:11Z",
             "owner": "boj-rs",
@@ -509,6 +544,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 592177748,
             "language": "Python",
             "last_commit": "2025-10-28T15:25:25Z",
             "owner": "xvzc",
@@ -523,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 805141744,
             "language": "Rust",
             "last_commit": "2026-03-25T00:44:59Z",
             "owner": "boj-rs",
@@ -537,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 476428818,
             "language": "C++",
             "last_commit": "2025-09-17T02:56:30Z",
             "owner": "DevM4rk",
@@ -551,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 528531216,
             "language": "Python",
             "last_commit": "2026-04-20T16:02:16Z",
             "owner": "zshchun",
@@ -562,7 +601,7 @@
       "title": "유틸리티"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -571,11 +610,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 200492112,
             "language": "C++",
             "last_commit": "2026-08-18T17:10:18Z",
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6408
+            "stars": 6409
           }
         },
         {
@@ -585,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 241597051,
             "language": "C++",
             "last_commit": "2026-01-27T12:17:27Z",
             "owner": "encrypted-def",
@@ -597,8 +638,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:46:02.745Z",
+    "last_updated": "2026-08-19T12:17:16.714Z",
     "original_repository": "RanolP/awesome-baekjoon",
+    "original_repository_id": 541420773,
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",
     "enhanced_repository_description": null,
