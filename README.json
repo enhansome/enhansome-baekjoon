@@ -62,7 +62,7 @@
             "last_commit": "2026-06-21T17:30:16Z",
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1735
+            "stars": 1736
           }
         },
         {
@@ -153,7 +153,7 @@
             "last_commit": "2026-08-08T07:49:34Z",
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 968
+            "stars": 970
           }
         },
         {
@@ -572,10 +572,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T17:09:19Z",
+            "last_commit": "2026-08-18T17:10:18Z",
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6409
+            "stars": 6408
           }
         },
         {
@@ -589,7 +589,7 @@
             "last_commit": "2026-01-27T12:17:27Z",
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2782
+            "stars": 2783
           }
         }
       ],
@@ -597,7 +597,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:45:07.936Z",
+    "last_updated": "2026-08-19T05:46:02.745Z",
     "original_repository": "RanolP/awesome-baekjoon",
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",

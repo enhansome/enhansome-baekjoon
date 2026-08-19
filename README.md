@@ -31,11 +31,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-18 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-19 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
-* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,735 | 🐛 33 | 🌐 C++ | 📅 2026-06-21 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,736 | 🐛 33 | 🌐 C++ | 📅 2026-06-21 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 * [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) ⭐ 30 | 🐛 0 | 📅 2025-08-11 - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
 * [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 126 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
   * [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 - solved-ac/boj-description-converter를 포크한 개선판입니다.
@@ -56,7 +56,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 브라우저 확장
 
-* [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) ⭐ 968 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - 백준 온라인 저지, 프로그래머스 등에서 맞았습니다를 받을 경우 해당 소스 코드를 열람해 복사한 후 GitHub에 올려주는 브라우저 확장입니다. ([Chrome](https://chrome.google.com/webstore/detail/ccammcjdkpgjmcpijpahlehmapgmphmk))
+* [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) ⭐ 970 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - 백준 온라인 저지, 프로그래머스 등에서 맞았습니다를 받을 경우 해당 소스 코드를 열람해 복사한 후 GitHub에 올려주는 브라우저 확장입니다. ([Chrome](https://chrome.google.com/webstore/detail/ccammcjdkpgjmcpijpahlehmapgmphmk))
 * [토탐정](https://github.com/wzrabbit/boj-totamjung) ⭐ 158 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-22 - 백준 온라인 저지에서 태그를 까지 않고, 알고 있는 알고리즘만으로 풀 수 있는 문제인지 확인할 수 있습니다. 또한, 손쉬운 검색 필터를 사용해 랜덤 디펜스를 진행할 수 있습니다. 그 외, 테마 등 기타 편의 기능을 제공합니다. ([Chrome](https://chrome.google.com/webstore/detail/%ED%86%A0%ED%83%90%EC%A0%95/hannhecbnjnnbbafffmogdlnajpcomek), [Whale](https://store.whale.naver.com/detail/pkigleffcifanlafphnjkdpkfippibcm), [Firefox](https://addons.mozilla.org/ko/firefox/addon/%ED%86%A0%ED%83%90%EC%A0%95/))
 * [BOJ Extended](https://github.com/joonas-yoon/boj-extended) ⭐ 132 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-01 - 사용자 페이지, 채점 현황, 문제 타이머, 사용자 비교, 빠른 검색, 다크 모드 등 백준 온라인 저지 사용자 경험을 전반적으로 향상시키는 다양한 기능 묶음을 제공합니다. ([Chrome](https://chrome.google.com/webstore/detail/boj-%ED%94%84%EB%A1%9C%ED%95%84-%EB%AC%B8%EC%A0%9C-%EB%B3%B4%EA%B8%B0/mfcaadoifdifdnigjmfbekjbhehibfel), [Whale](https://store.whale.naver.com/detail/epdpeloboklojnaelckeihkghcgebhnp), [Firefox](https://addons.mozilla.org/ko/firefox/addon/boj-extended/))
 * ~~[TIERIMNIDA](https://github.com/mazassumnida/tierimnida) ⭐ 36 | 🐛 1 | 🌐 JavaScript | 📅 2025-04-24~~ - 백준 온라인 저지에서 사용자 페이지의 문제 번호를 티어 색상으로 칠해줍니다. ([Chrome](https://chrome.google.com/webstore/detail/tierimnida/mgdddbhbedfjdodjccjefgbdgkglokdg))
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-17 - 코딩 테스트 대비용 알고리즘 문제집입니다.
-* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,782 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,408 | 🐛 6 | 🌐 C++ | 📅 2026-08-18 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,783 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
