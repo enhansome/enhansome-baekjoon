@@ -31,11 +31,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-20 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 8 | 🌐 TypeScript | 📅 2026-08-20 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
-* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,738 | 🐛 33 | 🌐 C++ | 📅 2026-06-21 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,739 | 🐛 33 | 🌐 C++ | 📅 2026-06-21 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 * [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) ⭐ 30 | 🐛 0 | 📅 2025-08-11 - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
 * [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 126 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
   * [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 - solved-ac/boj-description-converter를 포크한 개선판입니다.
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,408 | 🐛 6 | 🌐 C++ | 📅 2026-08-19 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,408 | 🐛 6 | 🌐 C++ | 📅 2026-08-20 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,784 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._

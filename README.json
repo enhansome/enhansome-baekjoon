@@ -66,7 +66,7 @@
             "last_commit": "2026-06-21T17:30:16Z",
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1738
+            "stars": 1739
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 200492112,
             "language": "C++",
-            "last_commit": "2026-08-19T17:09:07Z",
+            "last_commit": "2026-08-20T17:12:26Z",
             "owner": "tony9402",
             "repo": "baekjoon",
             "stars": 6408
@@ -638,7 +638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:46:16.408Z",
+    "last_updated": "2026-08-21T05:47:48.700Z",
     "original_repository": "RanolP/awesome-baekjoon",
     "original_repository_id": 541420773,
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
