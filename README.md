@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,408 | 🐛 6 | 🌐 C++ | 📅 2026-08-20 - 코딩 테스트 대비용 알고리즘 문제집입니다.
-* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,784 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-21 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,783 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
