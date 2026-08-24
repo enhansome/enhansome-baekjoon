@@ -31,11 +31,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-24 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
-* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,740 | 🐛 33 | 🌐 C++ | 📅 2026-08-23 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,741 | 🐛 33 | 🌐 C++ | 📅 2026-08-23 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 * [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) ⭐ 30 | 🐛 0 | 📅 2025-08-11 - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
 * [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 126 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
   * [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 - solved-ac/boj-description-converter를 포크한 개선판입니다.
@@ -99,9 +99,9 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ### 기타
 
+* [숭실대학교 프로그래밍대회 (2023 SCON)](https://github.com/ssu-sccc/2023scon) ⭐ 5 | 🐛 0 | 🌐 TeX | 📅 2023-05-21 - 숭실대학교 프로그래밍 대회, 백준이 낯선 사용자를 위한 매뉴얼이나 운영 시 현장 스태프 가이드라인 및 시간표 등이 함께 아카이브되어 있습니다.
 * [UCPC 과거 대회 정보](https://ucpc.me/about/#%EA%B3%BC%EA%B1%B0-%EB%8C%80%ED%9A%8C-%EC%A0%95%EB%B3%B4) - UCPC 2011 풀이, UCPC 2013\~2022 문제 및 풀이가 실려있습니다.
 * [제1회 초콜릿컵 에디토리얼](https://blog.bubbler.space/posts/chocolate1/editorial/)
-* [숭실대학교 프로그래밍대회 (2023 SCON)](https://github.com/ssu-sccc/2023scon) ⭐ 5 | 🐛 0 | 🌐 TeX | 📅 2023-05-21 - 숭실대학교 프로그래밍 대회, 백준이 낯선 사용자를 위한 매뉴얼이나 운영 시 현장 스태프 가이드라인 및 시간표 등이 함께 아카이브되어 있습니다.
 
 ## 유틸리티
 
@@ -113,7 +113,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-23 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,410 | 🐛 6 | 🌐 C++ | 📅 2026-08-23 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,784 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
