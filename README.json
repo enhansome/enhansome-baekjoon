@@ -15,7 +15,7 @@
             "last_commit": "2025-05-01T16:53:01Z",
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2345
+            "stars": 2344
           }
         },
         {
@@ -163,7 +163,7 @@
             "last_commit": "2026-08-08T07:49:34Z",
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 971
+            "stars": 970
           }
         },
         {
@@ -612,7 +612,7 @@
             "archived": false,
             "id": 200492112,
             "language": "C++",
-            "last_commit": "2026-08-22T16:53:52Z",
+            "last_commit": "2026-08-23T16:54:23Z",
             "owner": "tony9402",
             "repo": "baekjoon",
             "stars": 6409
@@ -630,7 +630,7 @@
             "last_commit": "2026-01-27T12:17:27Z",
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2783
+            "stars": 2784
           }
         }
       ],
@@ -638,7 +638,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T05:44:38.329Z",
+    "last_updated": "2026-08-24T05:53:06.590Z",
     "original_repository": "RanolP/awesome-baekjoon",
     "original_repository_id": 541420773,
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",

@@ -25,13 +25,13 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 라이브러리
 
-* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,345 | 🐛 17 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
+* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,344 | 🐛 17 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
 * [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) ⭐ 1,283 | 🐛 21 | 🌐 Python | 📅 2026-08-10 - Python으로 구현한 알고리즘 라이브러리 묶음입니다.
 * [frozenca/BTree](https://github.com/frozenca/BTree) ⭐ 249 | 🐛 0 | 🌐 C++ | 📅 2024-10-29 - C++로 짠 범용, 헤더 온리, STL과 닮은 B-Tree 구현체입니다.
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-22 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-24 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
@@ -56,7 +56,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 브라우저 확장
 
-* [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) ⭐ 971 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - 백준 온라인 저지, 프로그래머스 등에서 맞았습니다를 받을 경우 해당 소스 코드를 열람해 복사한 후 GitHub에 올려주는 브라우저 확장입니다. ([Chrome](https://chrome.google.com/webstore/detail/ccammcjdkpgjmcpijpahlehmapgmphmk))
+* [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub) ⭐ 970 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-08 - 백준 온라인 저지, 프로그래머스 등에서 맞았습니다를 받을 경우 해당 소스 코드를 열람해 복사한 후 GitHub에 올려주는 브라우저 확장입니다. ([Chrome](https://chrome.google.com/webstore/detail/ccammcjdkpgjmcpijpahlehmapgmphmk))
 * [토탐정](https://github.com/wzrabbit/boj-totamjung) ⭐ 158 | 🐛 1 | 🌐 TypeScript | 📅 2026-06-22 - 백준 온라인 저지에서 태그를 까지 않고, 알고 있는 알고리즘만으로 풀 수 있는 문제인지 확인할 수 있습니다. 또한, 손쉬운 검색 필터를 사용해 랜덤 디펜스를 진행할 수 있습니다. 그 외, 테마 등 기타 편의 기능을 제공합니다. ([Chrome](https://chrome.google.com/webstore/detail/%ED%86%A0%ED%83%90%EC%A0%95/hannhecbnjnnbbafffmogdlnajpcomek), [Whale](https://store.whale.naver.com/detail/pkigleffcifanlafphnjkdpkfippibcm), [Firefox](https://addons.mozilla.org/ko/firefox/addon/%ED%86%A0%ED%83%90%EC%A0%95/))
 * [BOJ Extended](https://github.com/joonas-yoon/boj-extended) ⭐ 132 | 🐛 1 | 🌐 JavaScript | 📅 2026-01-01 - 사용자 페이지, 채점 현황, 문제 타이머, 사용자 비교, 빠른 검색, 다크 모드 등 백준 온라인 저지 사용자 경험을 전반적으로 향상시키는 다양한 기능 묶음을 제공합니다. ([Chrome](https://chrome.google.com/webstore/detail/boj-%ED%94%84%EB%A1%9C%ED%95%84-%EB%AC%B8%EC%A0%9C-%EB%B3%B4%EA%B8%B0/mfcaadoifdifdnigjmfbekjbhehibfel), [Whale](https://store.whale.naver.com/detail/epdpeloboklojnaelckeihkghcgebhnp), [Firefox](https://addons.mozilla.org/ko/firefox/addon/boj-extended/))
 * ~~[TIERIMNIDA](https://github.com/mazassumnida/tierimnida) ⭐ 36 | 🐛 1 | 🌐 JavaScript | 📅 2025-04-24~~ - 백준 온라인 저지에서 사용자 페이지의 문제 번호를 티어 색상으로 칠해줍니다. ([Chrome](https://chrome.google.com/webstore/detail/tierimnida/mgdddbhbedfjdodjccjefgbdgkglokdg))
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-22 - 코딩 테스트 대비용 알고리즘 문제집입니다.
-* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,783 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,409 | 🐛 6 | 🌐 C++ | 📅 2026-08-23 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,784 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
