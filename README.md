@@ -35,7 +35,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 문제 출제
 
-* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,741 | 🐛 33 | 🌐 C++ | 📅 2026-08-23 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,742 | 🐛 33 | 🌐 C++ | 📅 2026-08-23 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 * [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) ⭐ 30 | 🐛 0 | 📅 2025-08-11 - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
 * [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 126 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
   * [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 - solved-ac/boj-description-converter를 포크한 개선판입니다.
@@ -70,7 +70,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 ## 서비스
 
 * [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) ⭐ 651 | 🐛 0 | 🌐 Python | 📅 2026-04-13 - 레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
-* [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) ⭐ 194 | 🐛 1 | 🌐 Python | 📅 2023-05-04 - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
+* [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) ⭐ 194 | 🐛 0 | 🌐 Python | 📅 2023-05-04 - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
 * [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) ⭐ 98 | 🐛 13 | 🌐 HTML | 📅 2024-08-25 - [solved.ac][] API를 문서화하는 비공식 커뮤니티 프로젝트입니다.
 * [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-07 - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 * [jayden000106/My.solved](https://github.com/jayden000106/My.solved) ⭐ 33 | 🐛 0 | 🌐 Dart | 📅 2025-04-28 - [solved.ac][] 비공식 앱입니다.
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,410 | 🐛 6 | 🌐 C++ | 📅 2026-08-24 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,410 | 🐛 6 | 🌐 C++ | 📅 2026-08-25 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,784 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
