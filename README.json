@@ -63,7 +63,7 @@
             "archived": false,
             "id": 36792683,
             "language": "C++",
-            "last_commit": "2026-08-23T01:28:24Z",
+            "last_commit": "2026-08-27T04:50:35Z",
             "owner": "MikeMirzayanov",
             "repo": "testlib",
             "stars": 1742
@@ -163,7 +163,7 @@
             "last_commit": "2026-08-08T07:49:34Z",
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 971
+            "stars": 972
           }
         },
         {
@@ -407,7 +407,7 @@
             "archived": false,
             "id": 689991558,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:32:46Z",
+            "last_commit": "2026-08-26T16:37:28Z",
             "owner": "star0202",
             "repo": "solvedac-cards",
             "stars": 19
@@ -656,10 +656,10 @@
             "archived": false,
             "id": 200492112,
             "language": "C++",
-            "last_commit": "2026-08-25T17:00:17Z",
+            "last_commit": "2026-08-26T17:51:49Z",
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6410
+            "stars": 6412
           }
         },
         {
@@ -682,9 +682,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:50:33.563Z",
-    "original_repository": "RanolP/awesome-baekjoon",
-    "original_repository_id": 541420773,
+    "last_updated": "2026-08-27T11:29:20.805Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 541420773,
+      "language": null,
+      "last_commit": "2026-03-18T04:37:25Z",
+      "owner": "RanolP",
+      "repo": "awesome-baekjoon",
+      "stars": 57
+    },
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",
     "enhanced_repository_description": null,
