@@ -15,7 +15,7 @@
             "last_commit": "2025-05-01T16:53:01Z",
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2345
+            "stars": 2346
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-27T04:50:35Z",
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1742
+            "stars": 1741
           }
         },
         {
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:29:20.805Z",
+    "last_updated": "2026-08-27T16:30:22.913Z",
     "original_repository_info": {
       "archived": false,
       "id": 541420773,

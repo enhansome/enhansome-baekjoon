@@ -25,7 +25,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 라이브러리
 
-* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,345 | 🐛 17 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
+* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,346 | 🐛 17 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
 * [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) ⭐ 1,283 | 🐛 21 | 🌐 Python | 📅 2026-08-10 - Python으로 구현한 알고리즘 라이브러리 묶음입니다.
 * [frozenca/BTree](https://github.com/frozenca/BTree) ⭐ 249 | 🐛 0 | 🌐 C++ | 📅 2024-10-29 - C++로 짠 범용, 헤더 온리, STL과 닮은 B-Tree 구현체입니다.
 
@@ -35,7 +35,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 문제 출제
 
-* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,742 | 🐛 33 | 🌐 C++ | 📅 2026-08-27 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,741 | 🐛 33 | 🌐 C++ | 📅 2026-08-27 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 * [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) ⭐ 30 | 🐛 0 | 📅 2025-08-11 - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
 * [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 126 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
   * [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 - solved-ac/boj-description-converter를 포크한 개선판입니다.
