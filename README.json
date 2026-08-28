@@ -15,8 +15,9 @@
             "last_commit": "2025-05-01T16:53:01Z",
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2346
-          }
+            "stars": 2347
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "cheran-senthil",
             "repo": "PyRival",
             "stars": 1283
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "frozenca",
             "repo": "BTree",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         }
       ],
       "title": "라이브러리"
@@ -67,7 +70,8 @@
             "owner": "MikeMirzayanov",
             "repo": "testlib",
             "stars": 1741
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "ucpcc",
             "repo": "problemsetting-guidelines",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -102,7 +107,8 @@
                 "owner": "ShapeLayer",
                 "repo": "modernized-boj-description-converter",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "repo_info": {
@@ -113,7 +119,8 @@
             "owner": "solved-ac",
             "repo": "boj-description-converter",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -128,7 +135,8 @@
             "owner": "ucpcc",
             "repo": "2020-description-layout",
             "stars": 3
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -143,7 +151,8 @@
             "owner": "Startlink",
             "repo": "boj-judge-samples",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         }
       ],
       "title": "문제 출제"
@@ -164,7 +173,8 @@
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -179,7 +189,8 @@
             "owner": "wzrabbit",
             "repo": "boj-totamjung",
             "stars": 158
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -194,7 +205,8 @@
             "owner": "joonas-yoon",
             "repo": "boj-extended",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
                 "owner": "yehwankim23",
                 "repo": "tierimnida-clone",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "repo_info": {
@@ -225,7 +238,8 @@
             "owner": "mazassumnida",
             "repo": "tierimnida",
             "stars": 36
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -240,7 +254,8 @@
             "owner": "BaekjoonCord",
             "repo": "BJCORD-extension",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -255,7 +270,8 @@
             "owner": "kiwiyou",
             "repo": "baechu",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -270,7 +286,8 @@
             "owner": "kiwiyou",
             "repo": "o-ey",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -285,7 +302,8 @@
             "owner": "kiwiyou",
             "repo": "tomato-predictor",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -300,7 +318,8 @@
             "owner": "Bubbler-4",
             "repo": "random-ac",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         }
       ],
       "title": "브라우저 확장"
@@ -321,7 +340,8 @@
             "owner": "mazassumnida",
             "repo": "mazassumnida",
             "stars": 651
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -336,7 +356,8 @@
             "owner": "mazassumnida",
             "repo": "mazandi",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -351,7 +372,8 @@
             "owner": "solvedac",
             "repo": "unofficial-documentation",
             "stars": 98
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -366,7 +388,8 @@
             "owner": "hyp3rflow",
             "repo": "github-readme-solvedac",
             "stars": 70
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -381,7 +404,8 @@
             "owner": "My-solved",
             "repo": "My.solved",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -396,7 +420,8 @@
             "owner": "boostcampaitech3",
             "repo": "final-project-level3-recsys-14",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -411,7 +436,8 @@
             "owner": "star0202",
             "repo": "solvedac-cards",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -426,7 +452,8 @@
             "owner": "kiwiyou",
             "repo": "boj-preview",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -441,7 +468,8 @@
             "owner": "kiwiyou",
             "repo": "solvedacbot",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -456,7 +484,8 @@
             "owner": "kiwiyou",
             "repo": "tagged-exact",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         }
       ],
       "title": "서비스"
@@ -479,7 +508,8 @@
                 "owner": "ucpcc",
                 "repo": "2020-solutions-theme",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "description": null,
@@ -501,7 +531,8 @@
                 "owner": "ghudegy",
                 "repo": "2018",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             },
             {
               "node_type": "item",
@@ -516,7 +547,8 @@
                 "owner": "ghudegy",
                 "repo": "2022",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             },
             {
               "node_type": "item",
@@ -531,7 +563,8 @@
                 "owner": "ghudegy",
                 "repo": "2021",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "description": null,
@@ -553,7 +586,8 @@
                 "owner": "ssu-sccc",
                 "repo": "2023scon",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "description": null,
@@ -579,7 +613,8 @@
             "owner": "boj-rs",
             "repo": "basm-rs",
             "stars": 142
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -594,7 +629,8 @@
             "owner": "xvzc",
             "repo": "boj-cli",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -609,7 +645,8 @@
             "owner": "boj-rs",
             "repo": "gaboja",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -624,7 +661,8 @@
             "owner": "DevM4rk",
             "repo": "PS_CounterEx_Generator",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -639,7 +677,8 @@
             "owner": "zshchun",
             "repo": "bojtools",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         }
       ],
       "title": "유틸리티"
@@ -656,11 +695,12 @@
             "archived": false,
             "id": 200492112,
             "language": "C++",
-            "last_commit": "2026-08-26T17:51:49Z",
+            "last_commit": "2026-08-27T20:11:10Z",
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6412
-          }
+            "stars": 6411
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         },
         {
           "node_type": "item",
@@ -674,15 +714,16 @@
             "last_commit": "2026-01-27T12:17:27Z",
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2784
-          }
+            "stars": 2785
+          },
+          "first_seen": "2026-08-28T17:26:37.400Z"
         }
       ],
       "title": "학습"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:30:22.913Z",
+    "last_updated": "2026-08-28T17:26:37.400Z",
     "original_repository_info": {
       "archived": false,
       "id": 541420773,
