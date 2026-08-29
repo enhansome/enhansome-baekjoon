@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AtCoder Library",
+            "homepage": null,
             "id": 293816245,
             "language": "C++",
+            "license": "CC0-1.0",
             "last_commit": "2025-05-01T16:53:01Z",
+            "open_issues": 17,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2347
+            "stars": 2346,
+            "topics": [
+              "atcoder",
+              "atcoder-library",
+              "competitive-programming"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -26,12 +35,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Competitive Programming Library",
+            "homepage": "https://pyrival.readthedocs.io/",
             "id": 147658180,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-10T12:54:10Z",
+            "open_issues": 21,
             "owner": "cheran-senthil",
             "repo": "PyRival",
-            "stars": 1283
+            "stars": 1283,
+            "topics": [
+              "algorithms",
+              "competitive-programming",
+              "data-structures",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -42,12 +61,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A general-purpose high-performance lightweight STL-like modern C++ B-Tree",
+            "homepage": null,
             "id": 516673453,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-29T23:27:30Z",
+            "open_issues": 0,
             "owner": "frozenca",
             "repo": "BTree",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         }
@@ -64,12 +88,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "C++ library to develop competitive programming problems",
+            "homepage": null,
             "id": 36792683,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:50:35Z",
+            "open_issues": 33,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1741
+            "stars": 1741,
+            "topics": [
+              "codeforces",
+              "contests",
+              "icpc",
+              "ioi",
+              "polygon"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -80,12 +115,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UCPC 디스크립션 작성 및 포매팅 컨벤션",
+            "homepage": null,
             "id": 272208427,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-11T11:10:59Z",
+            "open_issues": 0,
             "owner": "ucpcc",
             "repo": "problemsetting-guidelines",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -101,24 +141,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert olymp.sty based TeX problem files to BOJ Stack descriptions",
+                "homepage": "https://shapelayer.github.io/modernized-boj-description-converter/",
                 "id": 912655414,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2025-01-06T06:53:50Z",
+                "open_issues": 0,
                 "owner": "ShapeLayer",
                 "repo": "modernized-boj-description-converter",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "Convert olymp.sty based TeX problem files to BOJ Stack descriptions",
+            "homepage": "https://solved-ac.github.io/boj-description-converter/",
             "id": 504852198,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-26T06:43:16Z",
+            "open_issues": 0,
             "owner": "solved-ac",
             "repo": "boj-description-converter",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -129,12 +179,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "UCPC 2020 문제지 레이아웃",
+            "homepage": null,
             "id": 305765819,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2020-10-20T16:24:40Z",
+            "open_issues": 0,
             "owner": "ucpcc",
             "repo": "2020-description-layout",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "competitive-programming",
+              "competitive-programming-contests",
+              "ucpc",
+              "ucpc2020"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -145,12 +205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://stack.acmicpc.net/guide/judge",
             "id": 321431980,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-02-02T18:02:50Z",
+            "open_issues": 0,
             "owner": "Startlink",
             "repo": "boj-judge-samples",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         }
@@ -167,12 +232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "백준 자동 푸시 익스텐션(Auto Git Push for BOJ)",
+            "homepage": null,
             "id": 436290390,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T07:49:34Z",
+            "open_issues": 1,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 972
+            "stars": 972,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -183,12 +253,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "토탐정은 백준 온라인 저지(BOJ)에서 사용할 수 있는 확장 프로그램입니다. 알고리즘 학습자를 위해 알고리즘 분류와 관련된 기능을 제공하며, 그 외에도 학습자를 도울 수 있는 여러 유용한 기능들을 제공합니다.",
+            "homepage": "https://wzrabbit.github.io/boj-totamjung/",
             "id": 467000303,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T07:35:50Z",
+            "open_issues": 1,
             "owner": "wzrabbit",
             "repo": "boj-totamjung",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "algorithm",
+              "baekjoon",
+              "baekjoon-online-judge",
+              "boj",
+              "chrome-extension",
+              "firefox-extension",
+              "problem-solving",
+              "solved-ac",
+              "whale-extension"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -199,12 +284,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "백준 온라인 저지(BOJ)를 확장된 기능과 함께 사용해보세요. 기능 요청과 버그 제보는 언제나 환영합니다.",
+            "homepage": "https://chrome.google.com/webstore/detail/boj-extended/mfcaadoifdifdnigjmfbekjbhehibfel",
             "id": 331635766,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-01T07:17:16Z",
+            "open_issues": 1,
             "owner": "joonas-yoon",
             "repo": "boj-extended",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "algorithm",
+              "boj",
+              "chrome",
+              "chrome-extension",
+              "problem-solving"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -220,24 +316,40 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "백준 온라인 저지 문제 번호에 solved.ac 티어 색을 칠해주는 크롬 확장 프로그램",
+                "homepage": "https://chromewebstore.google.com/detail/tierimnida-%ED%81%B4%EB%A1%A0/afnbodcdemcanonbpkjphlfmkmjjfpag",
                 "id": 732658088,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-01-31T17:14:26Z",
+                "open_issues": 0,
                 "owner": "yehwankim23",
                 "repo": "tierimnida-clone",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "chrome-extension-api",
+                  "javascript",
+                  "python",
+                  "requests",
+                  "solved-ac-api"
+                ]
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             }
           ],
           "repo_info": {
             "archived": false,
+            "description": "백준 유저페이지를 예쁘게 만들어보세요",
+            "homepage": "https://chrome.google.com/webstore/detail/tierimnida/mgdddbhbedfjdodjccjefgbdgkglokdg",
             "id": 381250935,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-04-24T03:14:49Z",
+            "open_issues": 1,
             "owner": "mazassumnida",
             "repo": "tierimnida",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -248,12 +360,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Automatically send BOJ info to your discord server.",
+            "homepage": "https://chromewebstore.google.com/detail/ichhnkdadkmehpahpbdgcoeccfahgpdk?utm_source=item-share-cb",
             "id": 796301787,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T12:25:26Z",
+            "open_issues": 3,
             "owner": "BaekjoonCord",
             "repo": "BJCORD-extension",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "baekjoon",
+              "baekjoon-online-judge",
+              "boj",
+              "chrome-extension",
+              "discord"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -264,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BOJ 대회의 뱃지 및 배경 정보를 확인하는 확장 프로그램",
+            "homepage": null,
             "id": 742864158,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-04T02:56:02Z",
+            "open_issues": 2,
             "owner": "kiwiyou",
             "repo": "baechu",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -280,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BOJ User Translation Viewer",
+            "homepage": null,
             "id": 614743877,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-22T12:16:56Z",
+            "open_issues": 0,
             "owner": "kiwiyou",
             "repo": "o-ey",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -296,12 +429,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍅 Unofficial rating predictor for solved.ac arenas",
+            "homepage": "https://tomato-predictor.vercel.app",
             "id": 736184867,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-03-01T05:57:01Z",
+            "open_issues": 0,
             "owner": "kiwiyou",
             "repo": "tomato-predictor",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -312,12 +450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Random Defense helper for BOJ Practice",
+            "homepage": null,
             "id": 775339870,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-28T22:47:49Z",
+            "open_issues": 0,
             "owner": "Bubbler-4",
             "repo": "random-ac",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         }
@@ -334,12 +477,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Github 프로필에서 boj 프로필을 이쁘게 보여주는 프로젝트",
+            "homepage": null,
             "id": 289510536,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-13T06:33:50Z",
+            "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazassumnida",
-            "stars": 651
+            "stars": 651,
+            "topics": [
+              "competitive-programming",
+              "github-profile",
+              "github-profile-card",
+              "problem-solving"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -350,12 +503,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✅ solved.ac 잔디를 예쁘게 보여주는 프로필 카드 API",
+            "homepage": null,
             "id": 411718772,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-05-04T07:52:11Z",
+            "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazandi",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "competitive-programming",
+              "github-profile",
+              "github-profile-card"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -366,12 +528,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "solved.ac API를 문서화하는 커뮤니티 프로젝트",
+            "homepage": "https://solvedac.github.io/unofficial-documentation/",
             "id": 273835233,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2024-08-25T15:50:07Z",
+            "open_issues": 13,
             "owner": "solvedac",
             "repo": "unofficial-documentation",
-            "stars": 98
+            "stars": 98,
+            "topics": [
+              "api-documentation",
+              "solved-ac",
+              "solvedac"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -382,12 +553,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "백준, solved.ac 통계로 github stats card를 만들어주는 서비스",
+            "homepage": "https://github-readme-solvedac.hyp3rflow.vercel.app/",
             "id": 324689417,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-07T12:53:00Z",
+            "open_issues": 2,
             "owner": "hyp3rflow",
             "repo": "github-readme-solvedac",
-            "stars": 70
+            "stars": 70,
+            "topics": [
+              "profile-readme",
+              "readme-generator",
+              "serverless"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -398,12 +578,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "보다 편한 PS/CP를 위한 앱. 대회 일정과 알림을 곁들인.",
+            "homepage": "https://my-solved.github.io/",
             "id": 553744436,
             "language": "Dart",
+            "license": "MIT",
             "last_commit": "2025-04-28T11:59:48Z",
+            "open_issues": 0,
             "owner": "My-solved",
             "repo": "My.solved",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "solved-ac"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -414,12 +601,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "백준 온라인 저지 문제 추천과 solved.ac 라이벌 추천 웹 서비스",
+            "homepage": null,
             "id": 486496431,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-07-19T05:23:36Z",
+            "open_issues": 3,
             "owner": "boostcampaitech3",
             "repo": "final-project-level3-recsys-14",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "baekjoon-online-judge",
+              "recommendation-system",
+              "solved-ac"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -430,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generates solved.ac cards",
+            "homepage": null,
             "id": 689991558,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T16:37:28Z",
+            "open_issues": 13,
             "owner": "star0202",
             "repo": "solvedac-cards",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -446,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://boj.ma",
             "id": 747329966,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-05-18T12:40:03Z",
+            "open_issues": 0,
             "owner": "kiwiyou",
             "repo": "boj-preview",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -462,12 +668,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "solved.ac + acmicpc.net problem searching telegram bot",
+            "homepage": null,
             "id": 424447545,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-11-07T13:11:45Z",
+            "open_issues": 2,
             "owner": "kiwiyou",
             "repo": "solvedacbot",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "baekjoon-online-judge",
+              "boj",
+              "solvedac",
+              "telegram",
+              "telegram-bot"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -478,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://tagged-exact.vercel.app",
             "id": 757115635,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-09T12:20:05Z",
+            "open_issues": 0,
             "owner": "kiwiyou",
             "repo": "tagged-exact",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         }
@@ -502,12 +724,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UCPC 2020 솔루션 테마",
+                "homepage": null,
                 "id": 299212153,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-10T20:37:22Z",
+                "open_issues": 1,
                 "owner": "ucpcc",
                 "repo": "2020-solutions-theme",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "competitive-programming",
+                  "competitive-programming-contests",
+                  "ucpc",
+                  "ucpc2020"
+                ]
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             }
@@ -525,12 +757,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "구데기컵 @ Baekjoon Online Judge",
+                "homepage": "https://www.acmicpc.net/category/420",
                 "id": 127608641,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-03-13T13:11:10Z",
+                "open_issues": 0,
                 "owner": "ghudegy",
                 "repo": "2018",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "boj",
+                  "contest",
+                  "ghudegy",
+                  "kudeki"
+                ]
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             },
@@ -541,12 +783,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "진짜 최종 구데기컵 2 2 @ Baekjoon Online Judge",
+                "homepage": "https://www.acmicpc.net/contest/view/781",
                 "id": 472745323,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2022-09-27T05:49:17Z",
+                "open_issues": 2,
                 "owner": "ghudegy",
                 "repo": "2022",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "boj",
+                  "contest",
+                  "ghudegy"
+                ]
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             },
@@ -557,12 +808,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EtvycAuRLZpb6hhe86x0 @ Baekjoon Online Judge",
+                "homepage": null,
                 "id": 350562349,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-03-22T12:29:16Z",
+                "open_issues": 0,
                 "owner": "ghudegy",
                 "repo": "2021",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             }
@@ -580,12 +836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "2023 Soongsil Programming Contest",
+                "homepage": null,
                 "id": 643503665,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2023-05-21T12:00:51Z",
+                "open_issues": 0,
                 "owner": "ssu-sccc",
                 "repo": "2023scon",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:26:37.400Z"
             }
@@ -607,12 +868,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust 코드를 컴파일한 후 실행 파일을 온라인 채점 환경에 제출할 수 있도록 변환합니다.",
+            "homepage": null,
             "id": 498301218,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-15T14:07:11Z",
+            "open_issues": 7,
             "owner": "boj-rs",
             "repo": "basm-rs",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "assembly",
+              "c",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -623,12 +893,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Command-Line Interface for BOJ",
+            "homepage": null,
             "id": 592177748,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-28T15:25:25Z",
+            "open_issues": 2,
             "owner": "xvzc",
             "repo": "boj-cli",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "baekjoon",
+              "baekjoon-online-judge",
+              "boj",
+              "cli",
+              "command-line-interface",
+              "command-line-tool"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -639,12 +921,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gaboja: CLI helper for solving BOJ problems",
+            "homepage": null,
             "id": 805141744,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-03-25T00:44:59Z",
+            "open_issues": 0,
             "owner": "boj-rs",
             "repo": "gaboja",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -655,12 +942,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Counterexample generator for problem-solving(BOJ)",
+            "homepage": null,
             "id": 476428818,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-09-17T02:56:30Z",
+            "open_issues": 1,
             "owner": "DevM4rk",
             "repo": "PS_CounterEx_Generator",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "boj",
+              "counterexamples-generated",
+              "problem-solving",
+              "programmers"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -671,12 +968,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "백준(BOJ) & solved.ac CLI tool",
+            "homepage": null,
             "id": 528531216,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-20T16:02:16Z",
+            "open_issues": 0,
             "owner": "zshchun",
             "repo": "bojtools",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "baekjoon-online-judge",
+              "boj",
+              "command-line-tool",
+              "problem-solving"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         }
@@ -693,12 +1000,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "코딩테스트 대비 문제집(Baekjoon Online Judge)",
+            "homepage": null,
             "id": 200492112,
             "language": "C++",
-            "last_commit": "2026-08-27T20:11:10Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:41:50Z",
+            "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6411
+            "stars": 6411,
+            "topics": [
+              "algorithms",
+              "baekjoon",
+              "baekjoon-algorithm",
+              "baekjoon-online-judge",
+              "baekjoon-online-judge-solution",
+              "baekjoon-solutions",
+              "bfs",
+              "coding-test",
+              "disjoint-set",
+              "math",
+              "pointer",
+              "problem-solving",
+              "problems",
+              "trie"
+            ]
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         },
@@ -709,12 +1036,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "바킹독의 실전 알고리즘 강의 자료",
+            "homepage": null,
             "id": 241597051,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-01-27T12:17:27Z",
+            "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2785
+            "stars": 2785,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
         }
@@ -723,15 +1055,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:26:37.400Z",
+    "last_updated": "2026-08-29T05:03:35.419Z",
     "original_repository_info": {
       "archived": false,
+      "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
+      "homepage": null,
       "id": 541420773,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-18T04:37:25Z",
+      "open_issues": 0,
       "owner": "RanolP",
       "repo": "awesome-baekjoon",
-      "stars": 57
+      "stars": 57,
+      "topics": [
+        "awesome-list",
+        "baekjoon-online-judge",
+        "boj"
+      ]
     },
     "original_repository_sha": "e4c179e9c041832624350b4f561101b8242eb4de",
     "enhanced_repository": "enhansome/enhansome-baekjoon",
