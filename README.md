@@ -31,7 +31,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-25 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-29 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
