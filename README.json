@@ -97,7 +97,7 @@
             "open_issues": 33,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1741,
+            "stars": 1742,
             "topics": [
               "codeforces",
               "contests",
@@ -241,7 +241,7 @@
             "open_issues": 1,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 972,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1005,11 +1005,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:49:30Z",
+            "last_commit": "2026-08-30T16:49:42Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6412,
+            "stars": 6413,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T10:28:48.123Z",
+    "last_updated": "2026-08-31T11:35:56.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
