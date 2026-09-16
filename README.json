@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2356,
+            "stars": 2357,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -241,7 +241,7 @@
             "open_issues": 3,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 969,
+            "stars": 970,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -631,7 +631,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T17:00:15Z",
+            "last_commit": "2026-09-15T22:06:47Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1005,11 +1005,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:50:38Z",
+            "last_commit": "2026-09-15T16:50:35Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6417,
+            "stars": 6418,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:04:30.290Z",
+    "last_updated": "2026-09-16T09:56:37.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
