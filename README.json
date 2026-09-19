@@ -44,7 +44,7 @@
             "open_issues": 9,
             "owner": "cheran-senthil",
             "repo": "PyRival",
-            "stars": 1284,
+            "stars": 1285,
             "topics": [
               "algorithms",
               "competitive-programming",
@@ -97,7 +97,7 @@
             "open_issues": 33,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1746,
+            "stars": 1747,
             "topics": [
               "codeforces",
               "contests",
@@ -631,7 +631,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-18T02:49:14Z",
+            "last_commit": "2026-09-19T00:55:35Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1005,7 +1005,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-17T16:50:48Z",
+            "last_commit": "2026-09-18T16:49:41Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T09:45:40.093Z",
+    "last_updated": "2026-09-19T09:30:23.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
