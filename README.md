@@ -35,12 +35,12 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 문제 출제
 
-* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,747 | 🐛 33 | 🌐 C++ | 📅 2026-08-27 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
+* [MikeMirzayanov/testlib](https://github.com/MikeMirzayanov/testlib) ⭐ 1,746 | 🐛 33 | 🌐 C++ | 📅 2026-08-27 - 문제 출제 과정에서 문제 채점기, 데이터 검증기, 데이터 제너레이터 등을 만들때 도움이 되는 유틸리티를 모아놓은 라이브러리입니다.
 * [UCPC 디스크립션 작성 및 포매팅 컨벤션](https://github.com/ucpcc/problemsetting-guidelines) ⭐ 30 | 🐛 0 | 📅 2025-08-11 - UCPC 문제 출제 시 따를 디스크립션 작성 및 포매팅 규약입니다.
-* [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 127 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
+* [solved-ac/boj-description-converter](https://github.com/solved-ac/boj-description-converter) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-26 - UCPC 측에서 사용하는 [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 128 | 🐛 3 | 🌐 C++ | 📅 2024-01-31 기반 TeX 문제 본문을 BOJ Stack과 UCPC 규약에 알맞게 변환하는 도구입니다.
   * [ShapeLayer/modernized-boj-description-converter](https://github.com/ShapeLayer/modernized-boj-description-converter) ⭐ 0 | 🐛 0 | 🌐 TypeScript | 📅 2025-01-06 - solved-ac/boj-description-converter를 포크한 개선판입니다.
   * [UCPC 2022에서 번거로운 디스크립션 작업을 초고속으로 해결한 방법](https://blog.shift.moe/2022/08/17/boj-description-converter/) - solved-ac/boj-description-converter이 풀고자 하는 문제와 도구의 사용 방법을 설명하는 게시글입니다.
-* [ucpcc/ucpc2020-description-layout](https://github.com/ucpcc/ucpc2020-description-layout) ⭐ 3 | 🐛 0 | 🌐 TeX | 📅 2020-10-20 -  [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 127 | 🐛 3 | 🌐 C++ | 📅 2024-01-31, [SPC 2019](https://acm.sogang.ac.kr/spc/) 문제지 레이아웃 기반 문제 본문 템플릿입니다.
+* [ucpcc/ucpc2020-description-layout](https://github.com/ucpcc/ucpc2020-description-layout) ⭐ 3 | 🐛 0 | 🌐 TeX | 📅 2020-10-20 -  [olymp.sty](https://github.com/GassaFM/olymp.sty) ⭐ 128 | 🐛 3 | 🌐 C++ | 📅 2024-01-31, [SPC 2019](https://acm.sogang.ac.kr/spc/) 문제지 레이아웃 기반 문제 본문 템플릿입니다.
 * [Startlink/boj-judge-samples](https://github.com/Startlink/boj-judge-samples) ⭐ 1 | 🐛 0 | 🌐 C++ | 📅 2021-02-02 - BOJ Stack 상에서 쓸 수 있는 문제 채점기(인터렉터, 스페셜 저지 등)의 예시를 소개한 저장소입니다.
 * [문제 안내 - BOJ Stack](https://stack.acmicpc.net/guide/problem) - 백준에 문제를 출제할 때 지켜야 하는 문제 스타일, 문체, 기호 활용법, 제한/데이터 설정법 등을 총망라한 문서입니다.
 * [실수의 실수: 스페셜 저지만 붙인다고 끝나는 것이 아니다](https://blog.shift.moe/2022/10/31/on-floating-point-errors/) - 실수 연산에서 일어나는 절대 오차와 상대 오차가 어떻게 전파되는지 자세히 설명하는 글로, 실수를 활용하는 문제를 출제할 때 큰 도움이 되는 글입니다.
@@ -75,7 +75,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 * [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-07 - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 * [jayden000106/My.solved](https://github.com/jayden000106/My.solved) ⭐ 33 | 🐛 0 | 🌐 Dart | 📅 2025-04-28 - [solved.ac][] 비공식 앱입니다.
 * [RECJOON](https://github.com/boostcampaitech3/final-project-level3-recsys-14) ⭐ 27 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-07-19 - 백준 온라인 저지 및 [solved.ac][] 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.
-* [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) ⭐ 19 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-23 - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
+* [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) ⭐ 19 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-24 - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
 * [boj.ma](https://boj.ma) - 백준 온라인 저지 단축 URL 서비스로, 문제 제목 프리뷰를 OpenGraph로 제공합니다. `https://boj.ma/{{문제 번호}}`로 사용합니다. (예: `https://boj.ma/1000`) ([GitHub kiwiyou/boj-preview](https://github.com/kiwiyou/boj-preview) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-18)
 * [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) ⭐ 4 | 🐛 2 | 🌐 Rust | 📅 2021-11-07 - Telegram 메신저에서 [solved.ac][] 문제/사용자 검색을 돕는 봇입니다.
 * [exact.tagged.ac](https://exact.tagged.ac/) - 일러스타 페스 "표준 라이브러리" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. ([GitHub kiwiyou/tagged-exact)](https://github.com/kiwiyou/tagged-exact) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-09)
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,416 | 🐛 6 | 🌐 C++ | 📅 2026-09-23 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,416 | 🐛 6 | 🌐 C++ | 📅 2026-09-24 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,789 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
