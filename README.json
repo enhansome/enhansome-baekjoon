@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2363,
+            "stars": 2365,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -97,7 +97,7 @@
             "open_issues": 33,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1747,
+            "stars": 1748,
             "topics": [
               "codeforces",
               "contests",
@@ -241,7 +241,7 @@
             "open_issues": 1,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 970,
+            "stars": 971,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -486,7 +486,7 @@
             "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazassumnida",
-            "stars": 652,
+            "stars": 651,
             "topics": [
               "competitive-programming",
               "github-profile",
@@ -631,7 +631,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T22:59:14Z",
+            "last_commit": "2026-09-29T09:43:03Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1005,7 +1005,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-09-27T16:50:28Z",
+            "last_commit": "2026-09-28T16:52:48Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T11:41:13.715Z",
+    "last_updated": "2026-09-29T11:22:01.505Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
