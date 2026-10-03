@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2366,
+            "stars": 2367,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -753,7 +753,7 @@
             {
               "node_type": "item",
               "title": "제 1회 구데기컵, 진짜 최종 구데기컵 2018",
-              "description": null,
+              "description": "ghudegy/2018",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -779,7 +779,7 @@
             {
               "node_type": "item",
               "title": "진짜 최종 구데기컵 2 2",
-              "description": null,
+              "description": "ghudegy/2022",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -804,7 +804,7 @@
             {
               "node_type": "item",
               "title": "EtvycAuRLZpb6hhe86x0",
-              "description": null,
+              "description": "ghudegy/2021",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1005,7 +1005,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-01T16:51:46Z",
+            "last_commit": "2026-10-02T16:52:20Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1045,7 +1045,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2792,
+            "stars": 2793,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1055,7 +1055,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:06:11.368Z",
+    "last_updated": "2026-10-03T04:33:00.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
