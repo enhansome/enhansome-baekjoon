@@ -16,7 +16,7 @@
             "language": "C++",
             "license": "CC0-1.0",
             "last_commit": "2025-05-01T16:53:01Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "atcoder",
             "repo": "ac-library",
             "stars": 2369,
@@ -94,10 +94,10 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-08-27T04:50:35Z",
-            "open_issues": 33,
+            "open_issues": 34,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1749,
+            "stars": 1750,
             "topics": [
               "codeforces",
               "contests",
@@ -241,7 +241,7 @@
             "open_issues": 1,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 974,
+            "stars": 975,
             "topics": [
               "baekjoon",
               "groom",
@@ -636,7 +636,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-07T00:39:13Z",
+            "last_commit": "2026-10-09T10:39:55Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-06T16:53:31Z",
+            "last_commit": "2026-10-08T16:55:55Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T12:01:30.149Z",
+    "last_updated": "2026-10-09T11:53:36.841Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
