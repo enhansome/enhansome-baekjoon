@@ -636,7 +636,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T10:39:55Z",
+            "last_commit": "2026-10-10T08:46:27Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1010,11 +1010,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-08T16:55:55Z",
+            "last_commit": "2026-10-09T16:54:14Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6416,
+            "stars": 6414,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2792,
+            "stars": 2790,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:53:36.841Z",
+    "last_updated": "2026-10-10T11:10:35.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
