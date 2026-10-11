@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2369,
+            "stars": 2370,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -398,7 +398,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-04-04T02:56:02Z",
-            "open_issues": 2,
+            "open_issues": 0,
             "owner": "kiwiyou",
             "repo": "baechu",
             "stars": 11,
@@ -636,7 +636,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T08:46:27Z",
+            "last_commit": "2026-10-11T09:56:53Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -882,7 +882,7 @@
             "open_issues": 7,
             "owner": "boj-rs",
             "repo": "basm-rs",
-            "stars": 142,
+            "stars": 141,
             "topics": [
               "assembly",
               "c",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-09T16:54:14Z",
+            "last_commit": "2026-10-10T16:52:20Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2790,
+            "stars": 2791,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:10:35.291Z",
+    "last_updated": "2026-10-11T11:24:13.818Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",

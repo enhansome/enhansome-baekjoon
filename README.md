@@ -25,7 +25,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 라이브러리
 
-* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,369 | 🐛 19 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
+* [atcoder/ac-library](https://github.com/atcoder/ac-library) ⭐ 2,370 | 🐛 19 | 🌐 C++ | 📅 2025-05-01 - AtCoder 측에서 공식 제공하는 라이브러리로, 컨볼루션, 펜윅 트리, 느리게 갱신되는 세그먼트 트리, 강한 연결 요소 등 다양한 코드를 제공합니다.
 * [cheran-senthil/PyRival](https://github.com/cheran-senthil/PyRival) ⭐ 1,286 | 🐛 11 | 🌐 Python | 📅 2026-09-02 - Python으로 구현한 알고리즘 라이브러리 묶음입니다.
 * [frozenca/BTree](https://github.com/frozenca/BTree) ⭐ 249 | 🐛 0 | 🌐 C++ | 📅 2024-10-29 - C++로 짠 범용, 헤더 온리, STL과 닮은 B-Tree 구현체입니다.
 
@@ -62,7 +62,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 * ~~[TIERIMNIDA](https://github.com/mazassumnida/tierimnida) ⭐ 36 | 🐛 1 | 🌐 JavaScript | 📅 2025-04-24~~ - 백준 온라인 저지에서 사용자 페이지의 문제 번호를 티어 색상으로 칠해줍니다. ([Chrome](https://chrome.google.com/webstore/detail/tierimnida/mgdddbhbedfjdodjccjefgbdgkglokdg))
   * [TIERIMNIDA 클론](https://github.com/yehwankim23/tierimnida-clone) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-12 - 원본 프로젝트가 4년 전 마지막 유지보수로 더이상 작동하지 않아 만든 클론 프로젝트 ([Chrome](https://chromewebstore.google.com/detail/tierimnida-%ED%81%B4%EB%A1%A0/afnbodcdemcanonbpkjphlfmkmjjfpag))
 * [BaekjoonCord](https://github.com/baekjoonCord/BJCORD-extension/) ⚠️ Archived - 문제를 풀면 Discord 웹훅을 통해 메시지를 전송합니다. ([Chrome](https://chromewebstore.google.com/detail/%EB%B0%B1%EC%A4%80%EC%BD%94%EB%93%9C/ichhnkdadkmehpahpbdgcoeccfahgpdk))
-* [배추](https://github.com/kiwiyou/baechu) ⭐ 11 | 🐛 2 | 🌐 JavaScript | 📅 2026-04-04 - 백준 온라인 저지 대회와 관련된 배지, 배경 정보를 대회 메뉴에 표시합니다. ([Chrome](https://chromewebstore.google.com/detail/배추/obfbkgfedgjekgmofdckdldmkggbddgp), [Firefox](https://addons.mozilla.org/firefox/addon/baechu/))
+* [배추](https://github.com/kiwiyou/baechu) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-04-04 - 백준 온라인 저지 대회와 관련된 배지, 배경 정보를 대회 메뉴에 표시합니다. ([Chrome](https://chromewebstore.google.com/detail/배추/obfbkgfedgjekgmofdckdldmkggbddgp), [Firefox](https://addons.mozilla.org/firefox/addon/baechu/))
 * [o-ey (오이)](https://github.com/kiwiyou/o-ey) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2024-01-22 - 백준 온라인 저지 사용자 번역 서비스입니다. 병합 요청은 [kiwiyou/boj-user-translation](https://github.com/kiwiyou/boj-user-translation) ⭐ 29 | 🐛 0 | 🌐 HTML | 📅 2025-11-24에 받습니다. ([Chrome](https://chromewebstore.google.com/detail/o-ey/nhhlodckfmkepfalihpjdcbjecpjhfdf), [Firefox](https://addons.mozilla.org/firefox/addon/o-ey/))
 * [토마토 예측기](https://github.com/kiwiyou/tomato-predictor) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-01 - solved.ac 아레나 레이팅 변화를 예측합니다. ([Chrome](https://chromewebstore.google.com/detail/토마토-예측기/flknggeljmkhfhehgflcagoffnpnjcgf), [Firefox](https://addons.mozilla.org/firefox/addon/tomato-predictor/))
 * [random-ac](https://github.com/Bubbler-4/random-ac) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-28 - 백준 그룹 연습에서 랜덤 디펜스를 쉽게 만들어주는 확장입니다. ([Chrome](https://chromewebstore.google.com/detail/randomac/kdodhnnpnikopmoafeahigimagjhooba), [Firefox](https://addons.mozilla.org/ko/firefox/addon/random-ac/))
@@ -75,7 +75,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 * [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-07 - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 * [jayden000106/My.solved](https://github.com/jayden000106/My.solved) ⭐ 33 | 🐛 0 | 🌐 Dart | 📅 2025-04-28 - [solved.ac][] 비공식 앱입니다.
 * [RECJOON](https://github.com/boostcampaitech3/final-project-level3-recsys-14) ⭐ 27 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-07-19 - 백준 온라인 저지 및 [solved.ac][] 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.
-* [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) ⭐ 19 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-10 - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
+* [star0202/solvedac-cards](https://github.com/star0202/solvedac-cards) ⭐ 19 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-11 - 유저의 프로필, 푼 문제들의 티어 및 태그를 기반으로 한 예쁜 카드들을 만들어줍니다.
 * [boj.ma](https://boj.ma) - 백준 온라인 저지 단축 URL 서비스로, 문제 제목 프리뷰를 OpenGraph로 제공합니다. `https://boj.ma/{{문제 번호}}`로 사용합니다. (예: `https://boj.ma/1000`) ([GitHub kiwiyou/boj-preview](https://github.com/kiwiyou/boj-preview) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2025-05-18)
 * [Telegram @solvedacbot](https://github.com/kiwiyou/solvedacbot) ⭐ 4 | 🐛 2 | 🌐 Rust | 📅 2021-11-07 - Telegram 메신저에서 [solved.ac][] 문제/사용자 검색을 돕는 봇입니다.
 * [exact.tagged.ac](https://exact.tagged.ac/) - 일러스타 페스 "표준 라이브러리" 부스에서 사용한 solved.ac 태그 맞추기 게임입니다. ([GitHub kiwiyou/tagged-exact)](https://github.com/kiwiyou/tagged-exact) ⭐ 2 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-09)
@@ -105,7 +105,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 유틸리티
 
-* [kiwiyou/basm-rs](https://github.com/kiwiyou/basm-rs) ⭐ 142 | 🐛 7 | 🌐 Rust | 📅 2026-06-15 - 정적 링크한 no-libc, no-std Rust 프로그램 바이너리를 C 프로그램으로 번역해줍니다. 미리 구현해 제공하는 라이브러리는 물론, 조건에 맞는 외부 Rust 라이브러리도 사용할 수 있으며 빠릅니다.
+* [kiwiyou/basm-rs](https://github.com/kiwiyou/basm-rs) ⭐ 141 | 🐛 7 | 🌐 Rust | 📅 2026-06-15 - 정적 링크한 no-libc, no-std Rust 프로그램 바이너리를 C 프로그램으로 번역해줍니다. 미리 구현해 제공하는 라이브러리는 물론, 조건에 맞는 외부 Rust 라이브러리도 사용할 수 있으며 빠릅니다.
 * [xvzc/boj-cli](https://github.com/xvzc/boj-cli) ⚠️ Archived -  백준 온라인 저지 커맨드 라인 인터페이스
 * [Bubbler-4/gaboja](https://github.com/Bubbler-4/gaboja) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-03-25 - 백준 문제 풀이를 편리하게 만들어주는 CLI 도구 묶음입니다.
 * [duqrldudgns/PS\_CounterEx\_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2025-09-17 - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,414 | 🐛 6 | 🌐 C++ | 📅 2026-10-09 - 코딩 테스트 대비용 알고리즘 문제집입니다.
-* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,790 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,414 | 🐛 6 | 🌐 C++ | 📅 2026-10-10 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,791 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
