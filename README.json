@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2370,
+            "stars": 2371,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-11T16:52:16Z",
+            "last_commit": "2026-10-12T16:53:13Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T13:09:51.281Z",
+    "last_updated": "2026-10-13T12:42:11.892Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
