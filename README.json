@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2371,
+            "stars": 2372,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -636,7 +636,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-11T09:56:53Z",
+            "last_commit": "2026-10-13T17:14:31Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-12T16:53:13Z",
+            "last_commit": "2026-10-13T16:55:07Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T12:42:11.892Z",
+    "last_updated": "2026-10-14T10:11:40.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
