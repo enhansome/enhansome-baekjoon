@@ -19,7 +19,7 @@
             "open_issues": 19,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2368,
+            "stars": 2370,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "cheran-senthil",
             "repo": "PyRival",
-            "stars": 1287,
+            "stars": 1288,
             "topics": [
               "algorithms",
               "competitive-programming",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-14T16:52:38Z",
+            "last_commit": "2026-10-15T16:53:04Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2790,
+            "stars": 2789,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:53:51.079Z",
+    "last_updated": "2026-10-16T09:48:07.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
