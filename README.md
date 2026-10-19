@@ -31,7 +31,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 프레임워크
 
-* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-16 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
+* [lumirlumir/npm-bananass](https://github.com/lumirlumir/npm-bananass) ⭐ 49 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-19 - 백준, 코드포스 등 다양한 Node.js 문제 풀이 환경에서 사용할 수 있는 자바스크립트/타입스크립트 전용 프레임워크입니다.
 
 ## 문제 출제
 
@@ -69,9 +69,9 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 서비스
 
-* [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) ⭐ 651 | 🐛 0 | 🌐 Python | 📅 2026-04-13 - 레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
+* [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) ⭐ 650 | 🐛 0 | 🌐 Python | 📅 2026-04-13 - 레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
 * [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) ⭐ 195 | 🐛 0 | 🌐 Python | 📅 2023-05-04 - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
-* [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) ⭐ 98 | 🐛 12 | 🌐 HTML | 📅 2024-08-25 - [solved.ac][] API를 문서화하는 비공식 커뮤니티 프로젝트입니다.
+* [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) ⭐ 97 | 🐛 12 | 🌐 HTML | 📅 2024-08-25 - [solved.ac][] API를 문서화하는 비공식 커뮤니티 프로젝트입니다.
 * [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-07 - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
 * [jayden000106/My.solved](https://github.com/jayden000106/My.solved) ⭐ 33 | 🐛 0 | 🌐 Dart | 📅 2025-04-28 - [solved.ac][] 비공식 앱입니다.
 * [RECJOON](https://github.com/boostcampaitech3/final-project-level3-recsys-14) ⭐ 27 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2022-07-19 - 백준 온라인 저지 및 [solved.ac][] 사용자의 문제 풀이 이력을 바탕으로 맞춤 문제 및 라이벌을 추천해주는 인공지능 서비스입니다.
@@ -105,7 +105,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 유틸리티
 
-* [kiwiyou/basm-rs](https://github.com/kiwiyou/basm-rs) ⭐ 141 | 🐛 7 | 🌐 Rust | 📅 2026-06-15 - 정적 링크한 no-libc, no-std Rust 프로그램 바이너리를 C 프로그램으로 번역해줍니다. 미리 구현해 제공하는 라이브러리는 물론, 조건에 맞는 외부 Rust 라이브러리도 사용할 수 있으며 빠릅니다.
+* [kiwiyou/basm-rs](https://github.com/kiwiyou/basm-rs) ⭐ 140 | 🐛 7 | 🌐 Rust | 📅 2026-06-15 - 정적 링크한 no-libc, no-std Rust 프로그램 바이너리를 C 프로그램으로 번역해줍니다. 미리 구현해 제공하는 라이브러리는 물론, 조건에 맞는 외부 Rust 라이브러리도 사용할 수 있으며 빠릅니다.
 * [xvzc/boj-cli](https://github.com/xvzc/boj-cli) ⚠️ Archived -  백준 온라인 저지 커맨드 라인 인터페이스
 * [Bubbler-4/gaboja](https://github.com/Bubbler-4/gaboja) ⭐ 9 | 🐛 0 | 🌐 Rust | 📅 2026-03-25 - 백준 문제 풀이를 편리하게 만들어주는 CLI 도구 묶음입니다.
 * [duqrldudgns/PS\_CounterEx\_Generator](https://github.com/duqrldudgns/PS_CounterEx_Generator) ⭐ 5 | 🐛 1 | 🌐 C++ | 📅 2025-09-17 - 맞았습니다가 뜨는 C++ 코드와 틀렸습니다가 뜨는 C++ 코드가 주어질 때 무차별 대입 기법으로 반례를 찾아냅니다.
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,413 | 🐛 6 | 🌐 C++ | 📅 2026-10-17 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,413 | 🐛 6 | 🌐 C++ | 📅 2026-10-18 - 코딩 테스트 대비용 알고리즘 문제집입니다.
 * [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,789 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

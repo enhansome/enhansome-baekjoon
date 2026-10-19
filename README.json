@@ -491,7 +491,7 @@
             "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazassumnida",
-            "stars": 651,
+            "stars": 650,
             "topics": [
               "competitive-programming",
               "github-profile",
@@ -542,7 +542,7 @@
             "open_issues": 12,
             "owner": "solvedac",
             "repo": "unofficial-documentation",
-            "stars": 98,
+            "stars": 97,
             "topics": [
               "api-documentation",
               "solved-ac",
@@ -882,7 +882,7 @@
             "open_issues": 7,
             "owner": "boj-rs",
             "repo": "basm-rs",
-            "stars": 141,
+            "stars": 140,
             "topics": [
               "assembly",
               "c",
@@ -907,7 +907,7 @@
             "open_issues": 2,
             "owner": "xvzc",
             "repo": "boj-cli",
-            "stars": 91,
+            "stars": 90,
             "topics": [
               "baekjoon",
               "baekjoon-online-judge",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-17T16:49:43Z",
+            "last_commit": "2026-10-18T16:49:45Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:37:03.049Z",
+    "last_updated": "2026-10-19T10:45:45.275Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
