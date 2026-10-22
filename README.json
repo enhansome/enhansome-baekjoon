@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-20T16:52:26Z",
+            "last_commit": "2026-10-21T16:53:25Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2788,
+            "stars": 2789,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:07:22.893Z",
+    "last_updated": "2026-10-22T10:09:53.830Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
