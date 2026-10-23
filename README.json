@@ -238,7 +238,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-24T03:10:10Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
             "stars": 974,
@@ -517,7 +517,7 @@
             "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazandi",
-            "stars": 195,
+            "stars": 194,
             "topics": [
               "competitive-programming",
               "github-profile",
@@ -636,7 +636,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T10:34:01Z",
+            "last_commit": "2026-10-22T22:03:12Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-21T16:53:25Z",
+            "last_commit": "2026-10-22T16:52:12Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:09:53.830Z",
+    "last_updated": "2026-10-23T10:02:40.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
