@@ -69,7 +69,7 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 서비스
 
-* [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) ⭐ 650 | 🐛 0 | 🌐 Python | 📅 2026-04-13 - 레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
+* [mazassumnida/mazassumnida](https://github.com/mazassumnida/mazassumnida) ⭐ 649 | 🐛 0 | 🌐 Python | 📅 2026-04-13 - 레이팅, 푼 문제 수, 티어 정보, 자체 티어 아이콘 등을 담은 예쁜 [solved.ac][] 정보 기반 뱃지/배너를 만들어줍니다.
 * [mazassumnida/mazandi](https://github.com/mazassumnida/mazandi) ⭐ 194 | 🐛 0 | 🌐 Python | 📅 2023-05-04 - 예쁜 [solved.ac][] 잔디 배너를 만들어줍니다.
 * [@solvedac/unofficial-documentation](https://github.com/solvedac/unofficial-documentation) ⭐ 97 | 🐛 12 | 🌐 HTML | 📅 2024-08-25 - [solved.ac][] API를 문서화하는 비공식 커뮤니티 프로젝트입니다.
 * [hyp3rflow/github-readme-solvedac](https://github.com/hyp3rflow/github-readme-solvedac) ⭐ 70 | 🐛 2 | 🌐 TypeScript | 📅 2026-05-07 - 레이팅, 푼 문제 수, 티어 아이콘, 랭킹, 장착한 뱃지, 클래스, 자기소개 등을 담은 예쁜 [solved.ac][] 정보 기반 배너를 만들어줍니다.
@@ -113,11 +113,11 @@ PR을 바로 작성하는 건 README.md 파일을 병합 충돌의 나락으로 
 
 ## 학습
 
-* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,416 | 🐛 6 | 🌐 C++ | 📅 2026-10-26 - 코딩 테스트 대비용 알고리즘 문제집입니다.
-* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,788 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
+* [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon) ⭐ 6,417 | 🐛 6 | 🌐 C++ | 📅 2026-10-27 - 코딩 테스트 대비용 알고리즘 문제집입니다.
+* [바킹독의 실전 알고리즘](https://github.com/encrypted-def/basic-algo-lecture) ⭐ 2,787 | 🐛 23 | 🌐 C++ | 📅 2026-01-27 - C++를 사용한 실전 알고리즘 강좌로, C/C++ 문법에 친숙한 상태에서 알고리즘 지식을 익히기에 좋도록 작성되었습니다.
 
 [solved.ac]: https://solved.ac/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
