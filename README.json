@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2376,
+            "stars": 2377,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -97,7 +97,7 @@
             "open_issues": 34,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1755,
+            "stars": 1757,
             "topics": [
               "codeforces",
               "contests",
@@ -636,7 +636,7 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T00:27:43Z",
+            "last_commit": "2026-10-31T04:38:26Z",
             "open_issues": 14,
             "owner": "star0202",
             "repo": "solvedac-cards",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-29T16:50:09Z",
+            "last_commit": "2026-10-30T16:49:31Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:23:57.485Z",
+    "last_updated": "2026-10-31T10:55:02.135Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
