@@ -97,7 +97,7 @@
             "open_issues": 34,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1757,
+            "stars": 1759,
             "topics": [
               "codeforces",
               "contests",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-30T16:49:31Z",
+            "last_commit": "2026-10-31T16:49:28Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:55:02.135Z",
+    "last_updated": "2026-11-01T11:49:54.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
