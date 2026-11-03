@@ -93,7 +93,7 @@
             "id": 36792683,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-02T13:26:11Z",
+            "last_commit": "2026-11-03T11:41:18Z",
             "open_issues": 34,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
@@ -636,8 +636,8 @@
             "id": 689991558,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T04:38:26Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-03T00:55:06Z",
+            "open_issues": 15,
             "owner": "star0202",
             "repo": "solvedac-cards",
             "stars": 19,
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-01T16:49:29Z",
+            "last_commit": "2026-11-02T16:49:40Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:29:16.768Z",
+    "last_updated": "2026-11-03T12:46:59.310Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
