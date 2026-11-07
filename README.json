@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "cheran-senthil",
             "repo": "PyRival",
-            "stars": 1291,
+            "stars": 1293,
             "topics": [
               "algorithms",
               "competitive-programming",
@@ -97,7 +97,7 @@
             "open_issues": 35,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1759,
+            "stars": 1760,
             "topics": [
               "codeforces",
               "contests",
@@ -238,7 +238,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-24T03:10:10Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
             "stars": 975,
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-05T16:50:53Z",
+            "last_commit": "2026-11-06T16:49:33Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2793,
+            "stars": 2794,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T12:56:53.491Z",
+    "last_updated": "2026-11-07T11:44:01.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
