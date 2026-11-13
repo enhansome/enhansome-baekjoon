@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2378,
+            "stars": 2379,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -94,7 +94,7 @@
             "language": "C++",
             "license": "MIT",
             "last_commit": "2026-11-12T02:56:58Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
             "stars": 1764,
@@ -241,7 +241,7 @@
             "open_issues": 3,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 975,
+            "stars": 974,
             "topics": [
               "baekjoon",
               "groom",
@@ -1010,11 +1010,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-11T16:49:35Z",
+            "last_commit": "2026-11-12T16:49:36Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6418,
+            "stars": 6419,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:45:43.566Z",
+    "last_updated": "2026-11-13T13:05:48.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
