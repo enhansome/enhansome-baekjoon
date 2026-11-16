@@ -241,7 +241,7 @@
             "open_issues": 2,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 974,
+            "stars": 973,
             "topics": [
               "baekjoon",
               "groom",
@@ -517,7 +517,7 @@
             "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazandi",
-            "stars": 194,
+            "stars": 193,
             "topics": [
               "competitive-programming",
               "github-profile",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-14T16:49:27Z",
+            "last_commit": "2026-11-15T16:49:35Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T12:43:37.492Z",
+    "last_updated": "2026-11-16T13:38:25.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
