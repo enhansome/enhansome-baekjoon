@@ -97,7 +97,7 @@
             "open_issues": 22,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1765,
+            "stars": 1767,
             "topics": [
               "codeforces",
               "contests",
@@ -237,11 +237,11 @@
             "id": 436290390,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T10:46:58Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-18T01:54:03Z",
+            "open_issues": 2,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 973,
+            "stars": 974,
             "topics": [
               "baekjoon",
               "groom",
@@ -257,7 +257,7 @@
           "description": "백준 온라인 저지에서 태그를 까지 않고, 알고 있는 알고리즘만으로 풀 수 있는 문제인지 확인할 수 있습니다. 또한, 손쉬운 검색 필터를 사용해 랜덤 디펜스를 진행할 수 있습니다. 그 외, 테마 등 기타 편의 기능을 제공합니다. (Chrome, Whale, Firefox)",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "description": "토탐정은 백준 온라인 저지(BOJ)에서 사용할 수 있는 확장 프로그램입니다. 알고리즘 학습자를 위해 알고리즘 분류와 관련된 기능을 제공하며, 그 외에도 학습자를 도울 수 있는 여러 유용한 기능들을 제공합니다.",
             "homepage": "https://wzrabbit.github.io/boj-totamjung/",
             "id": 467000303,
@@ -588,7 +588,7 @@
             "id": 553744436,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-17T12:06:20Z",
+            "last_commit": "2026-11-17T23:18:28Z",
             "open_issues": 0,
             "owner": "My-solved",
             "repo": "My.solved",
@@ -1010,7 +1010,7 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-16T16:49:29Z",
+            "last_commit": "2026-11-17T16:49:45Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:22:46.546Z",
+    "last_updated": "2026-11-18T13:57:12.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
