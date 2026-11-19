@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2379,
+            "stars": 2381,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "cheran-senthil",
             "repo": "PyRival",
-            "stars": 1292,
+            "stars": 1291,
             "topics": [
               "algorithms",
               "competitive-programming",
@@ -97,7 +97,7 @@
             "open_issues": 22,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1767,
+            "stars": 1768,
             "topics": [
               "codeforces",
               "contests",
@@ -487,8 +487,8 @@
             "id": 289510536,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-14T14:48:03Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-18T14:53:58Z",
+            "open_issues": 0,
             "owner": "mazassumnida",
             "repo": "mazassumnida",
             "stars": 648,
@@ -1010,11 +1010,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-17T16:49:45Z",
+            "last_commit": "2026-11-18T16:49:34Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6418,
+            "stars": 6419,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2794,
+            "stars": 2795,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T13:57:12.452Z",
+    "last_updated": "2026-11-19T14:25:24.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
