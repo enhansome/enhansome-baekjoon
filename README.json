@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "atcoder",
             "repo": "ac-library",
-            "stars": 2381,
+            "stars": 2382,
             "topics": [
               "atcoder",
               "atcoder-library",
@@ -97,7 +97,7 @@
             "open_issues": 22,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1768,
+            "stars": 1767,
             "topics": [
               "codeforces",
               "contests",
@@ -237,11 +237,11 @@
             "id": 436290390,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-18T01:54:03Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-20T09:40:39Z",
+            "open_issues": 1,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 974,
+            "stars": 979,
             "topics": [
               "baekjoon",
               "groom",
@@ -263,7 +263,7 @@
             "id": 467000303,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-06-22T07:35:50Z",
+            "last_commit": "2026-11-20T04:13:53Z",
             "open_issues": 1,
             "owner": "wzrabbit",
             "repo": "boj-totamjung",
@@ -295,7 +295,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-01-01T07:17:16Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "joonas-yoon",
             "repo": "boj-extended",
             "stars": 132,
@@ -1010,11 +1010,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-18T16:49:34Z",
+            "last_commit": "2026-11-19T16:49:51Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6419,
+            "stars": 6421,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T14:25:24.737Z",
+    "last_updated": "2026-11-20T14:00:01.754Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
