@@ -93,11 +93,11 @@
             "id": 36792683,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-12T02:56:58Z",
-            "open_issues": 22,
+            "last_commit": "2026-11-25T11:27:08Z",
+            "open_issues": 20,
             "owner": "MikeMirzayanov",
             "repo": "testlib",
-            "stars": 1768,
+            "stars": 1769,
             "topics": [
               "codeforces",
               "contests",
@@ -237,11 +237,11 @@
             "id": 436290390,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T05:26:46Z",
+            "last_commit": "2026-11-25T01:14:35Z",
             "open_issues": 1,
             "owner": "BaekjoonHub",
             "repo": "BaekjoonHub",
-            "stars": 982,
+            "stars": 983,
             "topics": [
               "baekjoon",
               "groom",
@@ -588,7 +588,7 @@
             "id": 553744436,
             "language": "Dart",
             "license": "MIT",
-            "last_commit": "2026-11-17T23:18:28Z",
+            "last_commit": "2026-11-25T11:34:14Z",
             "open_issues": 0,
             "owner": "My-solved",
             "repo": "My.solved",
@@ -1010,11 +1010,11 @@
             "id": 200492112,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-11-23T16:49:37Z",
+            "last_commit": "2026-11-24T16:49:49Z",
             "open_issues": 6,
             "owner": "tony9402",
             "repo": "baekjoon",
-            "stars": 6423,
+            "stars": 6422,
             "topics": [
               "algorithms",
               "baekjoon",
@@ -1050,7 +1050,7 @@
             "open_issues": 23,
             "owner": "encrypted-def",
             "repo": "basic-algo-lecture",
-            "stars": 2798,
+            "stars": 2799,
             "topics": []
           },
           "first_seen": "2026-08-28T17:26:37.400Z"
@@ -1060,7 +1060,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T15:52:31.138Z",
+    "last_updated": "2026-11-25T15:35:15.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "눈여겨볼만한 백준 온라인 저지 관련 프로젝트를 모아둡니다.",
